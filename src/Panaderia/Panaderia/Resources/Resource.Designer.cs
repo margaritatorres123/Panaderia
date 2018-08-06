@@ -2429,8 +2429,8 @@ namespace Panaderia
 			// aapt resource value: 0x7f08005c
 			public const int action_mode_close_button = 2131230812;
 			
-			// aapt resource value: 0x7f0800c1
-			public const int action_settings = 2131230913;
+			// aapt resource value: 0x7f0800c6
+			public const int action_settings = 2131230918;
 			
 			// aapt resource value: 0x7f0800a7
 			public const int action_text = 2131230887;
@@ -2552,6 +2552,9 @@ namespace Panaderia
 			// aapt resource value: 0x7f0800a0
 			public const int editText2 = 2131230880;
 			
+			// aapt resource value: 0x7f0800bc
+			public const int editText3 = 2131230908;
+			
 			// aapt resource value: 0x7f08007e
 			public const int edit_query = 2131230846;
 			
@@ -2639,20 +2642,23 @@ namespace Panaderia
 			// aapt resource value: 0x7f080018
 			public const int line3 = 2131230744;
 			
+			// aapt resource value: 0x7f0800b8
+			public const int linearLayout1 = 2131230904;
+			
 			// aapt resource value: 0x7f08001d
 			public const int listMode = 2131230749;
 			
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800ba
-			public const int masked = 2131230906;
+			// aapt resource value: 0x7f0800bf
+			public const int masked = 2131230911;
 			
 			// aapt resource value: 0x7f0800ab
 			public const int media_actions = 2131230891;
 			
-			// aapt resource value: 0x7f0800b8
-			public const int message = 2131230904;
+			// aapt resource value: 0x7f0800bd
+			public const int message = 2131230909;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -2663,23 +2669,23 @@ namespace Panaderia
 			// aapt resource value: 0x7f080028
 			public const int multiply = 2131230760;
 			
-			// aapt resource value: 0x7f0800bb
-			public const int nav_camera = 2131230907;
-			
-			// aapt resource value: 0x7f0800bc
-			public const int nav_gallery = 2131230908;
-			
-			// aapt resource value: 0x7f0800be
-			public const int nav_manage = 2131230910;
-			
 			// aapt resource value: 0x7f0800c0
-			public const int nav_send = 2131230912;
+			public const int nav_camera = 2131230912;
 			
-			// aapt resource value: 0x7f0800bf
-			public const int nav_share = 2131230911;
+			// aapt resource value: 0x7f0800c1
+			public const int nav_gallery = 2131230913;
 			
-			// aapt resource value: 0x7f0800bd
-			public const int nav_slideshow = 2131230909;
+			// aapt resource value: 0x7f0800c3
+			public const int nav_manage = 2131230915;
+			
+			// aapt resource value: 0x7f0800c5
+			public const int nav_send = 2131230917;
+			
+			// aapt resource value: 0x7f0800c4
+			public const int nav_share = 2131230916;
+			
+			// aapt resource value: 0x7f0800c2
+			public const int nav_slideshow = 2131230914;
 			
 			// aapt resource value: 0x7f08008c
 			public const int nav_view = 2131230860;
@@ -2873,6 +2879,15 @@ namespace Panaderia
 			// aapt resource value: 0x7f08009f
 			public const int textView2 = 2131230879;
 			
+			// aapt resource value: 0x7f0800ba
+			public const int textView3 = 2131230906;
+			
+			// aapt resource value: 0x7f0800b9
+			public const int textView4 = 2131230905;
+			
+			// aapt resource value: 0x7f0800bb
+			public const int textView5 = 2131230907;
+			
 			// aapt resource value: 0x7f08009c
 			public const int text_input_password_toggle = 2131230876;
 			
@@ -2933,8 +2948,8 @@ namespace Panaderia
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800b9
-			public const int visible = 2131230905;
+			// aapt resource value: 0x7f0800be
+			public const int visible = 2131230910;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3179,19 +3194,22 @@ namespace Panaderia
 			public const int notification_template_part_time = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int select_dialog_item_material = 2130968636;
+			public const int register_activity = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int select_dialog_multichoice_material = 2130968637;
+			public const int select_dialog_item_material = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int select_dialog_singlechoice_material = 2130968638;
+			public const int select_dialog_multichoice_material = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int support_simple_spinner_dropdown_item = 2130968639;
+			public const int select_dialog_singlechoice_material = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int tooltip = 2130968640;
+			public const int support_simple_spinner_dropdown_item = 2130968640;
+			
+			// aapt resource value: 0x7f040041
+			public const int tooltip = 2130968641;
 			
 			static Layout()
 			{
